@@ -65,9 +65,9 @@ All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="colo
 ![Run BillCipher in Kali Linux](https://2.bp.blogspot.com/-g-BQCqbWjQ8/W3UCJWgbVgI/AAAAAAAANRU/7NWPE4APngANHIp-cLcQzNQTFBEF3eo-QCLcBGAs/s1600/BillCipher%2BKaliLinux.png)
 ![Run BillCipher in Windows 10](https://4.bp.blogspot.com/-gFl2fqik788/W3UCJT1CNmI/AAAAAAAANRQ/90nTvfAQXGoFYRyMG1x5JLzRu_Y0INqWwCLcBGAs/s1600/BillCipher%2BWindows%2B10.PNG)
 
-# Thanks to Thanks to <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools</span></a> (myself) for programming this tool
+# Thanks to <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools</span></a> for programming this tool
 
-# Contact to Author
+# Note:(this tool is not created by me check below links for Contacting Author)
 Website: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools.blogspot.com</span></a>
 
 Twitter: <a href="https://twitter.com/SecureGF" target="_blank"><span style="color: blue">@SecureGF</span></a>
@@ -76,9 +76,3 @@ Facebook: <a href="https://githacktools.blogspot.com" target="_blank"><span styl
 
 Google Plus: <a href="https://plus.google.com/+TVT618" target="_blank"><span style="color: blue">+TVT618</span></a>
 
-# To-do list
- * Create a own version for the Hacker's OS like Kali Linux, ParrotSec (Kali version)
- * Add more features
- * Gather information about host (2.2) DONE!
- * Website Copier (use bhttrack and only support for Linux) (2.2) DONE!
- * And more...
